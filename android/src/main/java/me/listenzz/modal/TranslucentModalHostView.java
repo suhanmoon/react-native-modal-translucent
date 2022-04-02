@@ -56,7 +56,7 @@ public class TranslucentModalHostView extends ReactModalHostView {
                                 defaultInsets.getSystemWindowInsetLeft(),
                                 0,
                                 defaultInsets.getSystemWindowInsetRight(),
-                                defaultInsets.getSystemWindowInsetBottom());
+                                0);
                     }
                 });
             } else {
